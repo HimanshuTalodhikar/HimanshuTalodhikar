@@ -1,89 +1,15 @@
-# Hi there 👋, I'm Himanshu Talodhikar
+# 💫 About Me:
+# Hi there 👋, I'm Himanshu Talodhikar<br><br>🚀 AI & Backend Developer passionate about building intelligent systems and scalable applications.<br><br>* 🤖 Developing AI-powered products using LLMs, RAG, and Agentic AI<br>* ⚙️ Building robust backend services with Spring Boot, Node.js, and Express.js<br>* 🗄️ Working with PostgreSQL, MongoDB, Redis, and Vector Databases<br>* ☁️ Deploying and scaling applications using AWS, Docker, and CI/CD<br>* 🧠 Strong foundation in Data Structures, Algorithms, and System Design<br><br>Currently focused on building AI copilots, autonomous agents, and production-grade backend systems that solve real-world problems.<br>
 
-🚀 AI Engineer | Backend Developer | Flutter Developer | Computer Science Student
 
-I'm passionate about building scalable software and AI-powered products that solve real-world problems. I enjoy working across the full stack—from designing intuitive mobile applications to developing robust backend systems and integrating modern AI technologies.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HimanshuTalodhikar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HimanshuTalodhikar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HimanshuTalodhikar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 💡 What I'm Working On
+---
+[![](https://komarev.com/ghpvc/?username=HimanshuTalodhikar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-* 🤖 AI-powered Product Copilot for Slack using RAG and LLMs
-* 📚 Intelligent knowledge retrieval with Vector Databases
-* ⚡ Backend services using Spring Boot, Node.js & Express.js
-* ☁️ AWS deployment, Docker, CI/CD, and cloud-native applications
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-* Java
-* Dart
-* C++
-* JavaScript
-* Python
-
-**Frontend**
-
-* Flutter
-
-**Backend**
-
-* Spring Boot
-* Node.js
-* Express.js
-
-**Databases**
-
-* MongoDB
-* PostgreSQL
-* Redis
-* Vector Databases (Qdrant)
-
-**AI & LLM**
-
-* Retrieval-Augmented Generation (RAG)
-* Semantic Search
-* Embeddings
-* LangChain
-* MCP
-* Agentic AI
-* OpenAI APIs
-
-**DevOps & Cloud**
-
-* Docker
-* AWS (EC2, ECR, ALB)
-* GitHub Actions
-* CI/CD
-* Nginx
-
-## 🚀 Projects
-
-### 🤖 AI Product Copilot
-
-An AI assistant that helps product teams answer documentation questions, verify feature availability, and collect feature requests using RAG, Slack, and LLMs.
-
-### 🛒 E-Commerce Platform
-
-A full-stack shopping application built with Flutter, Express.js, MongoDB, Razorpay, and BLoC architecture.
-
-### 📰 News App
-
-A Flutter application that delivers real-time news using News API with Firebase integration.
-
-### ❤️ AI Health Assistant
-
-An AI-powered application that analyzes blood reports and provides personalized health, nutrition, and fitness recommendations.
-
-## 🌱 Currently Learning
-
-* Advanced AI Agents
-* Multi-Agent Systems
-* Production-grade RAG Pipelines
-* Kubernetes
-* System Design
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on AI, backend, cloud, and mobile development projects.
-
-⭐ If you find my projects useful, consider giving them a star!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
