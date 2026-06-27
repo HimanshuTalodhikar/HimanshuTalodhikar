@@ -1,5 +1,12 @@
-# 💫 About Me:
-# Hi there 👋, I'm Himanshu Talodhikar<br><br>🚀 AI & Backend Developer passionate about building intelligent systems and scalable applications.<br><br>* 🤖 Developing AI-powered products using LLMs, RAG, and Agentic AI<br>* ⚙️ Building robust backend services with Spring Boot, Node.js, and Express.js<br>* 🗄️ Working with PostgreSQL, MongoDB, Redis, and Vector Databases<br>* ☁️ Deploying and scaling applications using AWS, Docker, and CI/CD<br>* 🧠 Strong foundation in Data Structures, Algorithms, and System Design<br><br>Currently focused on building AI copilots, autonomous agents, and production-grade backend systems that solve real-world problems.<br>
+## 👋 Hi, I'm Himanshu Talodhikar
+
+AI & Backend Developer focused on building intelligent applications and scalable backend systems.
+
+**Currently working on**
+- AI Copilots & Agentic AI
+- Spring Boot & Node.js Backends
+- RAG & Vector Databases
+- AWS • Docker • Redis
 
 
 # 💻 Tech Stack:
